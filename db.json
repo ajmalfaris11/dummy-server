@@ -1,0 +1,146 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "age": 28,
+          "premiumMember": true
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "age": 34,
+          "premiumMember": false
+        },
+        {
+          "id": 3,
+          "name": "Robert Johnson",
+          "email": "robert.johnson@example.com",
+          "age": 22,
+          "premiumMember": true
+        },
+        {
+          "id": 4,
+          "name": "Emily Davis",
+          "email": "emily.davis@example.com",
+          "age": 30,
+          "premiumMember": false
+        },
+        {
+          "id": 5,
+          "name": "Michael Wilson",
+          "email": "michael.wilson@example.com",
+          "age": 27,
+          "premiumMember": true
+        },
+        {
+          "id": 6,
+          "name": "Linda Brown",
+          "email": "linda.brown@example.com",
+          "age": 26,
+          "premiumMember": true
+        },
+        {
+          "id": 7,
+          "name": "James Williams",
+          "email": "james.williams@example.com",
+          "age": 40,
+          "premiumMember": false
+        },
+        {
+          "id": 8,
+          "name": "Patricia Taylor",
+          "email": "patricia.taylor@example.com",
+          "age": 29,
+          "premiumMember": true
+        },
+        {
+          "id": 9,
+          "name": "David Thomas",
+          "email": "david.thomas@example.com",
+          "age": 35,
+          "premiumMember": false
+        },
+        {
+          "id": 10,
+          "name": "Sarah Moore",
+          "email": "sarah.moore@example.com",
+          "age": 24,
+          "premiumMember": true
+        },
+        {
+          "id": 11,
+          "name": "Christopher Lee",
+          "email": "christopher.lee@example.com",
+          "age": 33,
+          "premiumMember": true
+        },
+        {
+          "id": 12,
+          "name": "Jessica White",
+          "email": "jessica.white@example.com",
+          "age": 25,
+          "premiumMember": false
+        },
+        {
+          "id": 13,
+          "name": "Daniel Harris",
+          "email": "daniel.harris@example.com",
+          "age": 31,
+          "premiumMember": true
+        },
+        {
+          "id": 14,
+          "name": "Mary Clark",
+          "email": "mary.clark@example.com",
+          "age": 36,
+          "premiumMember": false
+        },
+        {
+          "id": 15,
+          "name": "William Walker",
+          "email": "william.walker@example.com",
+          "age": 38,
+          "premiumMember": true
+        },
+        {
+          "id": 16,
+          "name": "Elizabeth Hall",
+          "email": "elizabeth.hall@example.com",
+          "age": 32,
+          "premiumMember": false
+        },
+        {
+          "id": 17,
+          "name": "Matthew Allen",
+          "email": "matthew.allen@example.com",
+          "age": 27,
+          "premiumMember": true
+        },
+        {
+          "id": 18,
+          "name": "Barbara Young",
+          "email": "barbara.young@example.com",
+          "age": 41,
+          "premiumMember": false
+        },
+        {
+          "id": 19,
+          "name": "Joshua King",
+          "email": "joshua.king@example.com",
+          "age": 23,
+          "premiumMember": true
+        },
+        {
+          "id": 20,
+          "name": "Andrew Wright",
+          "email": "andrew.wright@example.com",
+          "age": 39,
+          "premiumMember": false
+        }
+      ]
+      
+}
+
